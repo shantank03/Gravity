@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: North Carolina
 permalink: /northcarolina/
 category: "states"
