@@ -19,6 +19,7 @@ Soccer is the world's most popular sport. With billions of people around the wor
   * FA Cups: 7
   * Football League Cups: 5
   * FA Community Shields: 4
+  
 *The only club to hold both the Champions League and Europa League titles at the same time*
 
 # Beer
