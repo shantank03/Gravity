@@ -13,12 +13,13 @@ Soccer is the world's most popular sport. With billions of people around the wor
 * Once a middling club in England's top tier of football and on the verge of bankruptcy, Chelsea F.C. was bought by Russian billionaire Roman Abromavich to the tune of £30 million in 2003. 
 * After generating a loss for the first nine years of ownership, Chelsea started to turn a profit in 2012. As of 2016, the club was ranked the eighth most valuable club in the world in the Deloitte Football Money League.
 * Trophies won:
-  * Premier League Titles: 5
+  * Premier League Titles: 5 (2005, 2006, 2010, 2015, 2017)
   * Champions League Titles: 1 (2012)
-  * Europa League Titles: 1 (2013) 
+  * Europa League Titles: 1 (2013)
   * FA Cups: 7
   * Football League Cups: 5
   * FA Community Shields: 4
+*The only club to hold both the Champions League and Europa League titles at the same time*
 
 # Beer
 ![Image of Beer](http://www.menshealth.com/sites/menshealth.com/files/beer-main_0.jpg?raw=true)
