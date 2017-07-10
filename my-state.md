@@ -5,7 +5,6 @@ permalink: /northcarolina/
 category: "states"
 tagline: "What's so great about the South anyway?"
 ---
-
 # State Information:
 Capital: Raleigh
 Population: 10,146,788 (9th in the U.S.)
