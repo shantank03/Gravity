@@ -28,3 +28,4 @@ UNC-Chapel Hill, NC State University, Duke University, Appalachian State Univers
   * Durham Bulls (Minor League Baseball Team)
 
 # Come to North Carolina! You will not regret it!
+[NC Department of Tourism](https://www.visitnc.com/)
