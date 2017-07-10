@@ -5,6 +5,9 @@ permalink: /northcarolina/
 category: "states"
 tagline: "What's so great about the South anyway?"
 ---
+# State Map
+![NC Map](http://www.chelseafc.com/content/dam/cfc/menu-folders/Club/History/Badges/Club-Badges-Gallery/cfc-badge-2004-.jpg?raw=true)
+
 # State Information:
   * Capital: Raleigh
   * Population: 10,146,788 (9th in the U.S.)
