@@ -20,3 +20,9 @@ Raleigh, Durham, Asheville, Charlotte, Wilmington, Greensboro, Winston-Salem, Ch
 
 # Major Universities:
 UNC-Chapel Hill, NC State University, Duke University, Appalachian State University, UNC-Wilmington, UNC-Asheville, NC Central University, NC A&T University
+
+# Professional Sports Teams:
+  * Carolina Panthers (NFL Team)
+  * Charlotte Hornets (NBA Team)
+  * Carolina Hurricanes (NHL Team)
+  * Durham Bulls (Minor League Baseball Team)
