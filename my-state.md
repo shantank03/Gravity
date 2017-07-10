@@ -26,3 +26,5 @@ UNC-Chapel Hill, NC State University, Duke University, Appalachian State Univers
   * Charlotte Hornets (NBA Team)
   * Carolina Hurricanes (NHL Team)
   * Durham Bulls (Minor League Baseball Team)
+
+# Come to North Carolina! You will not regret it!
