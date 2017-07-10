@@ -6,7 +6,7 @@ category: "states"
 tagline: "What's so great about the South anyway?"
 ---
 # State Map
-![NC Map](https://www.mapsofworld.com/usa/states/north-carolina/maps/north-carolina-road-map.gif?raw=true)
+![NC Map](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwij69jmif_UAhWCNj4KHYbgB7oQjRwIBw&url=http%3A%2F%2Fwww.nationsonline.org%2Foneworld%2Fmap%2FUSA%2Fnorth_carolina_map.htm&psig=AFQjCNGwdqKYAcAaVW--MNhWvImpopPx6Q&ust=1499788476727529?raw=true)
 
 # State Information:
   * Capital: Raleigh
