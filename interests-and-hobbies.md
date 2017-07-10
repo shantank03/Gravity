@@ -31,4 +31,4 @@ Beer is the world's most consumed alcoholic beverage (the third most popular ove
   * Cenosillicaphobia is the fear of any empty glass. Hmmmmmmmmmm
   * There are more breweries today than there were before Prohibition (and there were a lot of breweries back in the day). 
 
-*Source: http://theoatmeal.com/comics/beer*
+[The Oatmeal] *Source: (http://theoatmeal.com/comics/beer)*
