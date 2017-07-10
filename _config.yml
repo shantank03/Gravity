@@ -16,6 +16,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shantank03.github.io" # the base hostname & protocol for your site
 paginate: 5
 
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
