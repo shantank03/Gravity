@@ -23,6 +23,10 @@ Soccer is the world's most popular sport. With billions of people around the wor
 # Beer
 ![Image of Beer](http://www.menshealth.com/sites/menshealth.com/files/beer-main_0.jpg?raw=true)
 Beer is the world's most consumed alcoholic beverage (the third most popular overall after water and tea).
-  ## Quick Beer Facts:
+## Quick Beer Facts:
   * The Babylonians were the first to brew beer! Many believe beer is the reason why civilization/permanent settlements came to be.
   * In the Middle Ages people mainly drank beer because water was unhealthy and led to diseases (beer is mostly water).
+  * Cenosillicaphobia is the fear of any empty glass. Hmmmmmmmmmm
+  * There are more breweries today than there were before Prohibition (and there were a lot of breweries back in the day). 
+
+*Source: http://theoatmeal.com/comics/beer
