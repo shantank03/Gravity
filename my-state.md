@@ -13,6 +13,7 @@ tagline: "What's so great about the South anyway?"
   * Population: 10,146,788 (9th in the U.S.)
   * Area: 53,819 sq mi (28th in the U.S.)
   * Median Household Income: $50,797 (38th in the U.S.)
+  * Nicknames: Tar Heel State, Old North State
 
 # Major Cities:
 Raleigh, Durham, Asheville, Charlotte, Wilmington, Greensboro, Winston-Salem, Chapel Hill
