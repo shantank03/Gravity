@@ -12,6 +12,8 @@ Soccer is the world's most popular sport. With billions of people around the wor
 * Based in London, Chelsea F.C. is one of the most successful soccer clubs in England.
 * Trophies won:
   * Premier League Titles: 5
-  * Champions League Titles: 1
-  * Europa League Titles: 1
-  * FA Cups: 4
+  * Champions League Titles: 1 (2012)
+  * Europa League Titles: 1 (2013) 
+  * FA Cups: 7
+  * Football League Cups: 5
+  * FA Community Shields: 4
