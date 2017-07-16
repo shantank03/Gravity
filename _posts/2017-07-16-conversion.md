@@ -16,10 +16,10 @@ Besides that, it didn't involve too much else.
 
 # Links to the documents
 You can view each of the documents, as long as the source file and the script, with these links to my GitHub repository page.
-* Source File: https://github.com/shantank03/shantank03-convert-documents/blob/master/2017-07-16-conversion-document.md
-* Script: https://github.com/shantank03/shantank03-convert-documents/blob/master/shantank03-convert-docs.sh
-* MS Word Document: https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.docx
-* HTML File: https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.html
-* ODT File: https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.odt
-* PDF: https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.pdf
-* TXT File: https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.txt
+* [Source File](https://github.com/shantank03/shantank03-convert-documents/blob/master/2017-07-16-conversion-document.md)
+* [Script](https://github.com/shantank03/shantank03-convert-documents/blob/master/shantank03-convert-docs.sh)
+* [MS Word Document](https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.docx)
+* [HTML File](https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.html)
+* [ODT File](https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.odt)
+* [PDF](https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.pdf)
+* [TXT File](https://github.com/shantank03/shantank03-convert-documents/blob/master/conversion-doc.txt)
